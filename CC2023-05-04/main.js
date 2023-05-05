@@ -31,7 +31,7 @@
 //([[1,0], [5,3], [3,1]] --> 5)
 
 
-//P: Take in the array. Need to decide whether to do each array alone and then add up
+//P: Take in the array. Need to decide whether to do each array alone and then add up.
 //or add all [0] and subtract all [1]. Then return the amount left. Decided I will try the first way
 //Use start a counter variable. Start a forEach loop and subtract [1] from [0].
 //Add the remainder to the counter and return after loop.
