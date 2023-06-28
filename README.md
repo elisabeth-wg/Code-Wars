@@ -17,7 +17,7 @@
 
 
 ### Optimizations
-#### I would like to create a short clip demonstrating various string and array methods for Javascript. These could be demonstrated with a corresponding challenge. I would like them to be quick snapshots vs. lengthy descriptions or clips. Additionally, they would be cataloged in such a way that they would be easily accessible.
+#### I would like to create short clips demonstrating various string and array methods for Javascript. Each could be demonstrated with a corresponding challenge. I would like them to be quick snapshots vs. lengthy descriptions or clips. Additionally, they would be cataloged in such a way that they would be easily accessible.
 
 ![CWKata](https://github.com/elisabeth-wg/Code-Wars/assets/97374677/5ab66723-b768-4756-9c6f-36d4745f568f)![CWKataOne](https://github.com/elisabeth-wg/Code-Wars/assets/97374677/2afb1d5a-303e-4085-baa4-7aaab7d8df82)
 
