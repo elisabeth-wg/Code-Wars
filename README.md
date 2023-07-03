@@ -1,5 +1,5 @@
 
-# Elisabeth Wolden's Coding Challenges 
+# My Coding Challenges 
 ## Challenges accessed on Codewars.com
 ### Follow me on codewars: @ElisabethOnTheWebs
 
