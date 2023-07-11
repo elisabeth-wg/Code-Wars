@@ -9,7 +9,7 @@
 
 
 ## Introduction 
-### This repository was created to track my progress on Codewars Katas. It has also enabled me to be accountable in the daily practice of challenges, utilizing git, and GitHub. 
+### This repository was created to track my progress on Codewars and Leet Code. It has also enabled me to be accountable in the daily practice of challenges, utilizing git, and GitHub. 
 ## Tech Stack
 
 **Javascript**
