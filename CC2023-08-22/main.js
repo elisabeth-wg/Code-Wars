@@ -18,4 +18,7 @@ function filter_list(l) {
 // console.log(filter_list([1,2,'a','b']),[1,2]);
 // console.log(filter_list([0,'a','3',2]),[0,2]);
 // console.log(filter_list([1,2,3,4,'5']),[1,2,3,4]);
-// 
+// Take in the array and use the filter method to remove the strings and return.
+
+
+const filter_list = (l) => l.filter((e) => typeof e === "number");
